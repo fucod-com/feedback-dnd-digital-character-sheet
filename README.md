@@ -8,4 +8,4 @@ Adventure begins with your character sheet — are you ready for the journey ahe
 
 This Git repository is used to report issues and suggestions regarding the [D&D Digital Character Sheet](https://dnd-character.fucod.com/) application.
 
-If you have any issues or suggestions, please open an issue so we can track and address them. Thank you for your cooperation.
+If you have any issues or suggestions, please open an issue so we can track and address them. Before posting content, please search to see if there are any related topics. Keep discussions friendly and rational. Please understand that due to human resource constraints, we may not be able to respond to all topics immediately. Thank you for your cooperation.
